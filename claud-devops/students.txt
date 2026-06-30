@@ -1,0 +1,8 @@
+Arsal	30	devops
+Hoor	29	English
+zia	21	fsc
+Alice   85  Math
+Bob     92  Science
+Carol   78  Math
+David   95  Science
+Eve     88  Math
